@@ -1,0 +1,11 @@
+MIT License
+
+Copyright (c) 2026 Sabiduria-IAH / Código legion de Dios
+
+Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia
+de este software y de los archivos de documentación asociados (el "Software"), para utilizar
+el Software sin restricciones, incluidos los derechos de uso, copia, modificación, fusión,
+publicación, distribución, sublicenciamiento y/o venta de copias del Software...
+streamlit>=1.30.0
+Pillow>=10.0.0
+numpy>=1.20.0
